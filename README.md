@@ -2,14 +2,28 @@
 <h3 align="center">A Student who is passionate about coding</h3>
 
 - 🔭 I’m currently working on **Train reservation system**
-
-- 🌱 I’m currently learning **Python , C languages**
-
-- 📫 How to reach me **haridath2007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> </p>
+<h1><b>Train reservation system</b></h1>
+<h3>Features</h3>
+<ul>
+<li><h4>Check seat availiablity</h4></li>
+<li><h4>Book tickets (enter name & age)</h4></li>
+<li><h4>Automatic seat assignment</h4></li>
+<li><h4>Unique booking id generation</h4></li>
+<li><h4>View reservaion details uaing booking ID</h4></li>
+<li><h4>Cancel tickets & free-up seats</h4></li>
+<li><h4>Simple menu-driven interface</h4></li><br>
+<h3><b>How to run the Code</b></h1>
+<h3>1. <i>Install python</i></h3>
+<h3>2 .<i>Save the code</i></h3>
+<h3>3. <i>Save the code</i></h3>
+<h3>4. <i>Open terminal</i></h3>
+<h3>5. <i>Run the programme</i></h3>
+<h3>6. <i>Use the menu</i></h3>
+<ul>
+  <li><h3>Check availiability</li>
+  <li><h3>Book ticket</li>
+  <li><h3>View ticket</li>
+  <li><h3>Cancel ticket</li>
+  <li><h3>Exit</li>
+</ul><br>
+<h3><b>Enter the number to perform actions</b></h3>
